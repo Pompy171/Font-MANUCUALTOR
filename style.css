@@ -1,0 +1,29 @@
+body{
+    background-color: snow;
+}
+.heading{
+    font-size: 25px;
+    margin: 0px;
+    width: 100%;
+    box-shadow: 5px 5px 10px gray;
+}
+.NOTE{
+    font-size: 15px;
+    color: black;
+}
+.copyright_footer{
+    bottom: 0px;
+    position: fixed;
+    background-color: salmon;
+    color: maroon;
+    width: 100%;
+    line-height: 2;
+    font-weight: bolder;
+    font-size: 15px;
+    box-shadow: -5px -5px 10px gray;
+}
+canvas{
+    border: 5px solid white;
+    border-radius: 25px;
+    box-shadow: 5px 5px 10px gray;
+}
